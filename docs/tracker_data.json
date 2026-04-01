@@ -1,19 +1,47 @@
 {
-  "last_updated": "2026-04-01T00:00:00Z",
-  "overall_status": "PENDING",
-  "progress_score_pct": 50,
-  "metrics": {
-    "ai_automation": { "score": 5, "trend": "stable", "insight": "Awaiting initial daily scan." },
-    "pif_growth": { "score": 5, "trend": "stable", "insight": "Awaiting initial daily scan." },
-    "ubi_steps": { "score": 5, "trend": "stable", "insight": "Awaiting initial daily scan." },
-    "deflationary_effects": { "score": 5, "trend": "stable", "insight": "Awaiting initial daily scan." }
-  },
-  "latest_news": [
-    {
-      "title": "Tracker Initialized",
-      "link": "#",
-      "summary": "The Autonomous Economy Tracker has been set up. Pending first GitHub Action run.",
-      "relevance_score": 10
-    }
-  ]
+    "last_updated": "2026-04-01T03:47:12.763192Z",
+    "overall_status": "NEAR",
+    "progress_score_pct": 72,
+    "metrics": {
+        "ai_automation": {
+            "score": 8,
+            "trend": "up",
+            "insight": "Massive data center expansion and targeted talent programs are rapidly scaling the infrastructure required for widespread economic automation."
+        },
+        "pif_growth": {
+            "score": 7,
+            "trend": "stable",
+            "insight": "Strategic shifts toward attracting third-party capital are diversifying funding sources, though geopolitical scrutiny requires careful navigation."
+        },
+        "ubi_steps": {
+            "score": 5,
+            "trend": "stable",
+            "insight": "The royal extension of the Citizen Account maintains critical social support infrastructure but remains a targeted program rather than a universal baseline."
+        },
+        "deflationary_effects": {
+            "score": 6,
+            "trend": "up",
+            "insight": "AI integration into energy grids and hydrogen markets is establishing the technological foundation for long-term structural cost reductions in utilities and logistics."
+        }
+    },
+    "latest_news": [
+        {
+            "title": "Saudi Arabia Bets on Artificial Intelligence: Data Center Market to Jump 200% in 6 Years to $6 Billion by 2031 - صحيفة مال",
+            "summary": "Massive data center expansion directly accelerates AI infrastructure deployment, enabling faster automation and long-term operational cost reductions across the economy.",
+            "relevance_score": 9,
+            "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ob0Utc3NVZi01RkVoZGZWZHVDWUxidm9PakppX1B3eWFNal90c0JTRmZlRVNhWjZ3dmVveDZFMjlHc1RLZWVlRDhPaVV2RjQwazhJSVNfWjdHR24yb1FtWnZQc0Z4anFTalFQVw?oc=5"
+        },
+        {
+            "title": "Saudi Arabia’s Public Investment Fund’s Targets Greater Third-Party Capital in Upcoming Five-Year Strategy - Hubbis",
+            "summary": "The strategic pivot toward attracting external capital strengthens the PIF's compounding capacity, reducing reliance on direct state funding and accelerating sovereign wealth growth.",
+            "relevance_score": 8,
+            "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMkZ1aUZONmU2dUVZWGVlYm1OMk9fRElsbHNUV3FQa0kyWDMyTlkyeFZwSnU2T19qSmxJeDdYX3NCWEp3UmRQSnBnU1BaMHRaRDIzUFFndnJpWGdmV25KdVdhaFU4SWxCT3M4RmhUOC1NTmN1eVJpNnphaTJndXJpaVdBN1JLbk1JMG5DemFoMUNVMUNPQWltZER0WG1RTVJGQ1I5TFJoZE56M1I4dHQtaUJia2FRWTdUanQ4NEJVNUhLYklmTWRsS2hn?oc=5"
+        },
+        {
+            "title": "Urgent Royal Order: King Salman directs the extension of the Citizen Account Program - المتداول العربي",
+            "summary": "Extending the Citizen Account program reinforces the cash-transfer infrastructure, providing a scalable administrative foundation for future UBI implementation.",
+            "relevance_score": 8,
+            "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTWpFM0NoUzNMeXN0a190YWJQMTNSby1TWWNiVWdIemFkR3RvdVZXMHJSbDI1NndEN1dTeThZWGtBXzVxc0xramlPdk43azZMT3RnNF9sdTBHR1UxRVVwNm5kamxmYTZqbEhMR3hZWnRWTzFTNnZoTzNTQ09ZZ2VpczV2SzJybXVSRFBZUUVPZGMtNmIzaGY1RXNWdTBzbnpTX3RIZVdVX1Z5ZjdLdUhwZndLb3gxMEl6U0hRcTNob0tvVmIwbGZFeURHN0tQamVC?oc=5"
+        }
+    ]
 }
